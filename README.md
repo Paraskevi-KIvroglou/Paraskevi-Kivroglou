@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Paraskevi-KIvroglou
+- 👋 Hi, I’m Paraskevi-Kivroglou
 - 👀 I’m interested in Programming and I also like to learn a new language
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on real-world problems in order to solve them together
