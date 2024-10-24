@@ -1,9 +1,22 @@
 ![](https://komarev.com/ghpvc/?username=Paraskevi-Kivroglou)
 
-- 👋 Hi, I’m Paraskevi-Kivroglou
-- 👀 I’m an Applied Mathematics graduate who is interested in new technology and innovative software. 
-- 🌱 I’m currently studying AI and all cloud-related things involved :-).
-- 💞️ I’m looking to collaborate on teams with other talented developers. 
+🤖 AI & ML Specialist by day, Pong-mastering Q-learner by night | Full-stack developer with a mathematical soul
+
+🎯 Currently crafting intelligent systems and making web apps sparkle at inuTech GmbH, while pursuing my MSc in AI because apparently regular programming wasn't complex enough! 
+
+🛠️ Tech Arsenal:
+- Fluent in Python, C#, and the art of turning coffee into code
+- Building AI assistants that actually assist (looking at you, Llama 2!)
+- Making databases dance with SQL
+- Cloud-wrangling across AWS, GCP, and Azure
+
+🧮 Former math mentor who helped 200+ students discover that Python is more fun than polynomials
+
+🏋️‍♀️ When not training neural networks, you'll find me training at the gym or capturing the world through my camera lens
+
+🌍 Based in Nuremberg, coding in three languages, and always ready for the next technical adventure!
+
+📚 Eternal learner, podcast enthusiast, and firm believer that the best code is yet to be written
 - 📫 How to reach me: Don't hesitate to get in touch with me at kibroglouparaskevi@gmail.com (Personal Email)
 - Hugging Face Account: https://huggingface.co/KvrParaskevi
 
