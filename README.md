@@ -14,7 +14,7 @@
 
 🏋️‍♀️ When not training neural networks, you'll find me training at the gym or capturing the world through my camera lens
 
-🌍 Based in Nuremberg, coding in three languages, and always ready for the next technical adventure!
+🌍 Based in Nuremberg, coding in three languages. Looking to relocate and always ready for the next technical adventure!
 
 📚 Eternal learner, podcast enthusiast, and firm believer that the best code is yet to be written
 - 📫 How to reach me: Don't hesitate to get in touch with me at kibroglouparaskevi@gmail.com (Personal Email)
