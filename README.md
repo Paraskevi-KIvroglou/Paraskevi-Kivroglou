@@ -19,7 +19,7 @@
 📚 Eternal learner, podcast enthusiast, and firm believer that the best code is yet to be written
 - 📫 How to reach me: Don't hesitate to get in touch with me at kibroglouparaskevi@gmail.com (Personal Email)
 - Hugging Face Account: https://huggingface.co/KvrParaskevi
-
+- Substack Newsletter: https://kivroglou.substack.com/?r=56ehxy&utm_campaign=pub-share-checklist
 
 <!---
 Paraskevi-KIvroglou/Paraskevi-KIvroglou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
