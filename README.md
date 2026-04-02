@@ -1,39 +1,37 @@
 ![](https://komarev.com/ghpvc/?username=Paraskevi-KIvroglou)
 
-# Hi, I’m Paraskevi Kivroglou 👋
+# Hey, I’m Paraskevi Kivroglou 👋
 
-I build at the intersection of **AI, automation, business systems, and digital strategy**.
+I build at the intersection of **AI, automation, digital strategy, and business systems**.
 
-I’m an AI builder, tech creator, and founder-minded problem solver focused on turning powerful technology into practical tools, workflows, and real-world outcomes.
+I’m the kind of person who gets excited about useful technology, smart execution, and ideas that actually go somewhere. I love building things that make work clearer, faster, and more meaningful — especially when AI is involved.
 
-## What I work on
-- AI assistants and automation systems
-- practical AI workflows for business
-- full-stack and product-driven development
-- content, education, and tech communication
-- digital strategy and operational leverage
+## What I do
+- build AI assistants and automation systems
+- design practical workflows for businesses
+- work across product, strategy, and full-stack development
+- create content around AI, tech, and the future of work
+- turn complex ideas into things people can actually use
 
-## Current focus
-- Building AI systems that are actually useful
-- Exploring automation for business growth and execution
-- Creating content around AI, tech, and the future of work
-- Growing **Tech Break by Friday**
-- Building through **AureliaEdge**
+## Currently building
+- **AureliaEdge** — AI, automation, and business systems
+- **Tech Break by Friday** — tech conversations, insights, and digital curiosity
+- projects that sit somewhere between strategy, experimentation, and “wait… this is actually really cool”
 
 ## Tech stack
 - **Languages:** Python, C#, SQL
 - **Cloud:** AWS, GCP, Azure
-- **Focus areas:** AI, ML, automation, full-stack development, product thinking
+- **Focus areas:** AI, ML, automation, full-stack development, digital products
 
 ## Find me online
 - **Personal Website:** https://paraskevikivroglou.com
 - **Company Website:** https://theaureliaedge.com
+- **Podcast Website:** https://www.techbreakbyfriday.com
 - **Hugging Face:** https://huggingface.co/KvrParaskevi
 - **Substack:** https://kivroglou.substack.com
-- **Podcast / Brand:** Tech Break by Friday
 - **Email:** kibroglouparaskevi@gmail.com
 
-## Community
-I’m also building spaces around **AI, automation, and business innovation** for people who want practical ways to use technology to grow faster and work smarter.
+## Fun fact
+I’m serious about building — but not about pretending tech has to be boring.
 
-If you're into AI, tech, systems, and building useful things — welcome.
+If you’re into **AI, systems, digital strategy, experimentation, and building useful things with ambition**, welcome 💙
