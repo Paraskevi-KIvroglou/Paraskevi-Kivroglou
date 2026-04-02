@@ -1,69 +1,39 @@
-![](https://komarev.com/ghpvc/?username=Paraskevi-Kivroglou)
+![](https://komarev.com/ghpvc/?username=Paraskevi-KIvroglou)
 
-🤖 AI & ML Specialist by day, Pong-mastering Q-learner by night | Full-stack developer with a mathematical soul
+# Hi, I’m Paraskevi Kivroglou 👋
 
-🎯 Currently crafting intelligent systems and making web apps sparkle at inuTech GmbH, while pursuing my MSc in AI because apparently regular programming wasn't complex enough! 
+I build at the intersection of **AI, automation, business systems, and digital strategy**.
 
-🛠️ Tech Arsenal:
-- Fluent in Python, C#, and the art of turning coffee into code
-- Building AI assistants that actually assist (looking at you, Llama 2!)
-- Making databases dance with SQL
-- Cloud-wrangling across AWS, GCP, and Azure
+I’m an AI builder, tech creator, and founder-minded problem solver focused on turning powerful technology into practical tools, workflows, and real-world outcomes.
 
-🧮 Former math mentor who helped 200+ students discover that Python is more fun than polynomials
+## What I work on
+- AI assistants and automation systems
+- practical AI workflows for business
+- full-stack and product-driven development
+- content, education, and tech communication
+- digital strategy and operational leverage
 
-🏋️‍♀️ When not training neural networks, you'll find me training at the gym or capturing the world through my camera lens
+## Current focus
+- Building AI systems that are actually useful
+- Exploring automation for business growth and execution
+- Creating content around AI, tech, and the future of work
+- Growing **Tech Break by Friday**
+- Building through **AureliaEdge**
 
-🌍 Based in Nuremberg, coding in three languages. Looking to relocate and always ready for the next technical adventure!
+## Tech stack
+- **Languages:** Python, C#, SQL
+- **Cloud:** AWS, GCP, Azure
+- **Focus areas:** AI, ML, automation, full-stack development, product thinking
 
-📚 Eternal learner, podcast enthusiast, and firm believer that the best code is yet to be written
-- 📫 How to reach me: Don't hesitate to get in touch with me at kibroglouparaskevi@gmail.com (Personal Email)
-- Hugging Face Account: https://huggingface.co/KvrParaskevi
-- Substack Newsletter: https://kivroglou.substack.com/?r=56ehxy&utm_campaign=pub-share-checklist
-- Personal Website: https://paraskevikivroglou.com
-- Podcast : https://kivroglouparaskevi.substack.com/
+## Find me online
+- **Personal Website:** https://paraskevikivroglou.com
+- **Company Website:** https://theaureliaedge.com
+- **Hugging Face:** https://huggingface.co/KvrParaskevi
+- **Substack:** https://kivroglou.substack.com
+- **Podcast / Brand:** Tech Break by Friday
+- **Email:** kibroglouparaskevi@gmail.com
 
+## Community
+I’m also building spaces around **AI, automation, and business innovation** for people who want practical ways to use technology to grow faster and work smarter.
 
-AI Advantage Club - Skool Community
-
-🚀 Join Our AI & Automation Community
-We're excited to share our AI Advantage Club - a thriving Skool community focused on AI, automation, and business innovation!
-
-🔗 Community Link: https://www.skool.com/ai-advantage-club-5848/about
-
-What We Offer
-This community is perfect for you if you're looking to:
-
-🧠 Understand how AI can automate and transform your business operations
-
-🧠 Connect with like-minded professionals and decision-makers exploring AI solutions
-
-🧠 Learn practical strategies and real-world applications of AI automation
-
-🧠 Share experiences and get advice on implementing AI tools
-
-Inside the community you'll find:
-
-💻 Exclusive access to courses, webinars, and AI automation case studies
-
-💻 Live coaching sessions and expert Q&As
-
-💻 Early insights on new AI technologies and tools
-
-💻 Opportunities for partnerships, pilot projects, and special offers
-
-Community Details
-Type: Private community
-
-Cost: Free to join
-
-Members: 12+ active members
-
-Target Audience: Business leaders, managers, and professionals eager to leverage AI automation for competitive advantage
-
-How to Join
-Simply click the link above and request to join our community. We welcome innovators and entrepreneurs who want to win big with AI, tech, and proven workflows to grow faster than ever!
-<!---
-Paraskevi-KIvroglou/Paraskevi-KIvroglou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you're into AI, tech, systems, and building useful things — welcome.
