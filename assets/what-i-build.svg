@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="200" viewBox="0 0 1280 200" role="img" aria-labelledby="title desc">
+  <title id="title">What I build: AI agents, workflow automation, AI search visibility, custom software and CRM.</title>
+  <desc id="desc">Four tiles on midnight blue with gold numbering.</desc>
+  <rect width="1280" height="200" rx="20" fill="#03060f"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <g transform="translate(32 32)">
+      <rect width="290" height="136" rx="12" fill="#070e1f" stroke="#c9a24b" stroke-opacity=".3"/>
+      <text x="24" y="44" fill="#c9a24b" font-family="Georgia,Times New Roman,serif" font-size="30">01</text>
+      <text x="24" y="78" fill="#f6f2e9" font-size="17" font-weight="700">AI agents</text>
+      <text x="24" y="102" fill="#aaa6b8" font-size="13">Triage, draft, research, update systems.</text>
+      <text x="24" y="120" fill="#aaa6b8" font-size="13">Built around the team's real workflow.</text>
+    </g>
+    <g transform="translate(341 32)">
+      <rect width="290" height="136" rx="12" fill="#070e1f" stroke="#c9a24b" stroke-opacity=".3"/>
+      <text x="24" y="44" fill="#c9a24b" font-family="Georgia,Times New Roman,serif" font-size="30">02</text>
+      <text x="24" y="78" fill="#f6f2e9" font-size="17" font-weight="700">Workflow automation</text>
+      <text x="24" y="102" fill="#aaa6b8" font-size="13">Leads, documents, reporting, handoffs.</text>
+      <text x="24" y="120" fill="#aaa6b8" font-size="13">Measured against a baseline first.</text>
+    </g>
+    <g transform="translate(650 32)">
+      <rect width="290" height="136" rx="12" fill="#070e1f" stroke="#c9a24b" stroke-opacity=".3"/>
+      <text x="24" y="44" fill="#c9a24b" font-family="Georgia,Times New Roman,serif" font-size="30">03</text>
+      <text x="24" y="78" fill="#f6f2e9" font-size="17" font-weight="700">AI search visibility</text>
+      <text x="24" y="102" fill="#aaa6b8" font-size="13">AEO and technical SEO, structured data,</text>
+      <text x="24" y="120" fill="#aaa6b8" font-size="13">content AI assistants can quote.</text>
+    </g>
+    <g transform="translate(959 32)">
+      <rect width="289" height="136" rx="12" fill="#070e1f" stroke="#c9a24b" stroke-opacity=".3"/>
+      <text x="24" y="44" fill="#c9a24b" font-family="Georgia,Times New Roman,serif" font-size="30">04</text>
+      <text x="24" y="78" fill="#f6f2e9" font-size="17" font-weight="700">Software, CRM, cloud</text>
+      <text x="24" y="102" fill="#aaa6b8" font-size="13">Next.js, Python, C# and .NET on Azure.</text>
+      <text x="24" y="120" fill="#aaa6b8" font-size="13">Dashboards and integrations that last.</text>
+    </g>
+  </g>
+</svg>

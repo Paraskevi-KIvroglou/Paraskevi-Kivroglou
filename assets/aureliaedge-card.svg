@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+  <title id="title">AureliaEdge. Reply to leads in minutes. Get recommended by AI. Get your team's hours back.</title>
+  <desc id="desc">Promotional card for AureliaEdge, an OpenAI Select Partner. Three offers: speed to lead, AEO and SEO, AI agents and automation. Call to action: take the free Operations Audit at theaureliaedge.com/audit.</desc>
+  <defs>
+    <linearGradient id="gold" x2="1" y2="1"><stop stop-color="#fff0a6"/><stop offset=".5" stop-color="#c9a24b"/><stop offset="1" stop-color="#827126"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#c9a24b" stop-opacity=".14"/><stop offset="1" stop-color="#070e1f" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1280" height="380" rx="20" fill="#070e1f"/>
+  <rect x=".5" y=".5" width="1279" height="379" rx="19.5" fill="none" stroke="#c9a24b" stroke-opacity=".35"/>
+  <ellipse cx="200" cy="60" rx="420" ry="220" fill="url(#glow)"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="64" y="66" fill="#f6f2e9" font-size="24" font-weight="700">Aurelia<tspan fill="#c9a24b">Edge</tspan></text>
+    <rect x="212" y="44" width="178" height="30" rx="15" fill="#c9a24b" fill-opacity=".12" stroke="#c9a24b" stroke-opacity=".5"/>
+    <text x="301" y="64" text-anchor="middle" fill="#e3c576" font-size="12" font-weight="700" letter-spacing="1.2">OPENAI SELECT PARTNER</text>
+    <g font-family="Georgia,Times New Roman,serif" font-size="40">
+      <text x="62" y="132" fill="#f6f2e9">Reply to leads in minutes. <tspan fill="#e3c576" font-style="italic">Get recommended by AI.</tspan></text>
+    </g>
+    <text x="64" y="168" fill="#bbb8c7" font-size="17">Start with a free audit, buy one workflow that pays for itself, expand only when the numbers hold.</text>
+    <g font-size="14">
+      <g transform="translate(64 206)">
+        <rect width="360" height="92" rx="10" fill="#03060f" stroke="#c9a24b" stroke-opacity=".25"/>
+        <text x="20" y="32" fill="#c9a24b" font-size="11" letter-spacing="2">01 · SPEED TO LEAD</text>
+        <text x="20" y="58" fill="#f6f2e9" font-size="15" font-weight="700">Every enquiry answered in minutes</text>
+        <text x="20" y="78" fill="#aaa6b8">Captured, qualified, routed, CRM updated.</text>
+      </g>
+      <g transform="translate(460 206)">
+        <rect width="360" height="92" rx="10" fill="#03060f" stroke="#c9a24b" stroke-opacity=".25"/>
+        <text x="20" y="32" fill="#c9a24b" font-size="11" letter-spacing="2">02 · AEO + SEO</text>
+        <text x="20" y="58" fill="#f6f2e9" font-size="15" font-weight="700">Cited by ChatGPT, ranked by Google</text>
+        <text x="20" y="78" fill="#aaa6b8">Pages AI assistants can quote correctly.</text>
+      </g>
+      <g transform="translate(856 206)">
+        <rect width="360" height="92" rx="10" fill="#03060f" stroke="#c9a24b" stroke-opacity=".25"/>
+        <text x="20" y="32" fill="#c9a24b" font-size="11" letter-spacing="2">03 · AI AGENTS</text>
+        <text x="20" y="58" fill="#f6f2e9" font-size="15" font-weight="700">Hours back every week</text>
+        <text x="20" y="78" fill="#aaa6b8">Inbox triage, drafting, research, reporting.</text>
+      </g>
+    </g>
+    <rect x="64" y="322" width="372" height="36" rx="18" fill="url(#gold)"/>
+    <text x="250" y="346" text-anchor="middle" fill="#03060f" font-size="14" font-weight="700">Take the free Operations Audit  →</text>
+    <text x="1216" y="346" text-anchor="end" fill="#898493" font-size="12" letter-spacing="1.5">THEAURELIAEDGE.COM/AUDIT</text>
+  </g>
+</svg>
